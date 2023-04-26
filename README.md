@@ -1,9 +1,11 @@
 
-NestJS as the backend framework
-Prisma as the Object-Relational Mapper (ORM)
-PostgreSQL as the database
-Swagger as the API documentation tool
-TypeScript as the programming language
+- NestJS as the backend framework
+- Prisma as the Object-Relational Mapper (ORM)
+- PostgreSQL as the database
+- Swagger as the API documentation tool
+- TypeScript as the programming language
+
+Based on: [Prisma Tutorial](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0#introduction)
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
